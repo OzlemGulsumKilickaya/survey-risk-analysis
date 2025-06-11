@@ -4,17 +4,29 @@
 This repository contains the full workflow for analyzing survey data related to healthcare business continuity management. The project involves statistical exploration of participant responses collected via structured questionnaires. Analysis is performed using **R** within a **Jupyter Notebook**, and results are summarized in an accompanying report.
 
 ## 📦 Contents
+
 project-root/
+
 ├── data/
+
 │ ├── raw_survey_data.xlsx
+
 │ ├── survey_data_by_question.xlsx
+
 │
+
 ├── notebooks/
+
 │ └── R_Codes_Results.ipynb # Jupyter Notebook with R analysis
+
 │
+
 ├── reports/
+
 │ └── Statistical_Analysis_Report.docx
+
 │
+
 ├── README.md
 ├── .gitignore
 └── LICENSE
